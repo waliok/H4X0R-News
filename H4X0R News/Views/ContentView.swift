@@ -18,8 +18,6 @@ struct ContentView: View {
                         Text(post.title)
                     }
                 }
-                
-                
             }
             .navigationBarTitle("H4X0R NEWS")
         }
